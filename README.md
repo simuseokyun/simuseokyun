@@ -4,8 +4,6 @@
 
 프론트엔드 개발자를 꿈꾸는 심현석입니다!
 
----
-
 ## 🛠 Tech Stack 🛠
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -19,10 +17,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simuseokyun&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
 ## ✉️ Contact
 
 - 이메일: sim31059999@gmail.com
-
-</div>
+    </div>
