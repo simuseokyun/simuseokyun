@@ -1,6 +1,8 @@
+<div align="center">
+
 # Hi! there 👋🏻
 
-프론트엔드 개발자를 꿈꾸는 심현석입니다
+프론트엔드 개발자를 꿈꾸는 심현석입니다!
 
 ---
 
@@ -15,10 +17,12 @@
 
 ## 📊 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simuseokyun&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## ✉️ Contact
 
 - 이메일: sim31059999@gmail.com
+
+</div>
